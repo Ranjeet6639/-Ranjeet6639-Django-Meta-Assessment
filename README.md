@@ -58,7 +58,6 @@ http://127.0.0.1:8000/auth/token/login/
     pip3 install django
     ```
     
-
     **Verify Django Version:**
 
     **Windows:**
